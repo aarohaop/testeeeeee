@@ -5,7 +5,7 @@ TgCrypto==1.2.3
 bs4
 pyshorteners
 aiofiles
-dnspythons
+dnspythons==2.6.1
 python-dotenv
 errorsolvers
 domainers 
